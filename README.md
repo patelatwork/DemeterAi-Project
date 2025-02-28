@@ -13,7 +13,7 @@ Farming is becoming increasingly complex due to:
 ## ✨ Features
 
 ### 1. 🌾 Crop Recommendation
-![Crop Recommendation](static/images/Crop_Recommendation.png)
+![Crop Recommendation](static/images/Crop_Recommnedation.png)
 
 Demeter AI analyzes soil properties (NPK levels, moisture, temperature, rainfall) to suggest the most suitable crops for your specific farm conditions, ensuring optimized selection tailored to your environment.
 
