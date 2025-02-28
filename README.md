@@ -33,7 +33,7 @@ With our AI-powered image recognition system, simply upload a photo of your crop
 Access real-time weather data for your farm location to help plan planting, irrigation, and harvesting activities with greater precision.
 
 ### 5. 🗣️ Multilingual Chatbot Assistant
-![Chatbot Assistant]
+![Chatbot Assistant](static/images/Chatbot.png)
 
 Our integrated AI-powered chatbot provides farming advice and answers questions in multiple languages, making agricultural expertise accessible to farmers regardless of their native language.
 
