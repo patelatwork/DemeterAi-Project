@@ -13,17 +13,17 @@ Farming is becoming increasingly complex due to:
 ## ✨ Features
 
 ### 1. 🌾 Crop Recommendation
-![Crop Recommendation]
+![Crop Recommendation](static/images/Crop_Recommendation.png)
 
 Demeter AI analyzes soil properties (NPK levels, moisture, temperature, rainfall) to suggest the most suitable crops for your specific farm conditions, ensuring optimized selection tailored to your environment.
 
 ### 2. 🧪 Fertilizer Suggestions
-![Fertilizer Recommendation]
+![Fertilizer Recommendation](static/images/Fertilizer_Recommendation.png)
 
 Using data on soil type, pH, temperature, and crop selection, Demeter AI provides precise fertilizer recommendations to maintain soil health, improve crop growth, and maximize yields.
 
 ### 3. 🔬 Crop Disease Detection
-![Disease Detection]
+![Disease Detection](static/images/Crop_Disease.png)
 
 With our AI-powered image recognition system, simply upload a photo of your crop to identify diseases and evaluate plant health, allowing for quick interventions to prevent widespread damage.
 
